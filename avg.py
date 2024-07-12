@@ -7,5 +7,5 @@ def avg(a , b, c):
     print(avg)
     return avg
 
-print("Average of ", a,",",b,",",c, "is") 
+print("Average of " a,",",b,",",c, "is") 
 avg(a,b,c)
